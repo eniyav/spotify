@@ -1,0 +1,49 @@
+.flex{
+    display:flex;
+}
+.invert{
+    filter: invert(1);
+}
+.jc{
+    justify-content: center;
+}
+.ic{
+    align-items: center;
+}
+.bg-black{
+    background-color: black;
+    color: white;
+}
+.bg-grey{
+    background-color: #121212;
+
+}
+.rounded{
+    border-radius: 7px;
+}
+.m-1{
+    margin: 5px;
+}
+.p-1{
+    padding: 10px;
+}
+ul li{
+    width: 14px;
+    list-style: none;
+    gap: 15px;
+    padding-top: 14px;
+    font-size:bold ;
+}
+.heading{
+    width: 100%;
+    list-style: none;
+    gap: 15px;
+    padding-top: 14px;
+    font-weight: bold;
+    align-items: center;
+    padding: 23px 14px;
+    font-size: 13px;
+}
+.heading img{
+    width: 30px;
+}
